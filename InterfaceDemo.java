@@ -3,7 +3,7 @@ interface printable{
 }
 public class InterfaceDemo implements printable {
     public void print(){
-        System.out.println("");
+        System.out.println("Hello World");
     }
 
     public static void main(String[] args) {
